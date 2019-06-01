@@ -2,4 +2,4 @@
 Just another repository
 
 Hello.
-hoge.
+hogefuga.
